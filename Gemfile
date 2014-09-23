@@ -29,6 +29,9 @@ gem 'ember-rails'
 gem 'ember-source'
 gem 'emblem-rails'
 
+gem 'ffaker' # creates fake names
+gem 'puma' # multiple threads
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
